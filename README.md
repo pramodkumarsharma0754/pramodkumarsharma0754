@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodkumarsharma0754&label=Profile%20views&color=0e75b6&style=flat" alt="pramodkumarsharma0754" /> </p>
 
-- 🌱 I’m currently learning **Learning MERN Stack at Masai School**
+- 🌱 I’m currently learning **Learning MERN Stack **
 
 - 👨‍💻 All of my projects are available at [https://pramodkumarsharma0754.github.io/](https://pramodkumarsharma0754.github.io/)
 
